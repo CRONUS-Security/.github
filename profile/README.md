@@ -10,7 +10,7 @@
 
 ## >> Idea-stage project 概念性项目
 
-### Observation
+### Observation **Private**
 
 > Agent for Observation
 
