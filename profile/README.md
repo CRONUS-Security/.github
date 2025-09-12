@@ -24,6 +24,10 @@
 
 > A stealthy web intelligence toolkit for site monitoring, data gathering, and reconnaissance
 
+### VidIntel **(Private)**
+
+> Video Intelligence analysis framework
+
 ### WindListener
 
 > Multi Session Handler
@@ -67,6 +71,7 @@
 ### viper-image-archive
 
 > 针对 [Docker Hub - viperplatform/viper](https://hub.docker.com/r/viperplatform/viper) 镜像仓库的监控和备份
+
 
 
 
