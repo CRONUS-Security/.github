@@ -24,9 +24,9 @@
 
 > A stealthy web intelligence toolkit for site monitoring, data gathering, and reconnaissance
 
-### VidIntel **(Private)**
+### OmniIntel **(Private)**
 
-> Video Intelligence analysis framework
+> Omni Intelligence: A unified AI framework for cross-platform content intelligence
 
 ### WindListener
 
@@ -71,6 +71,7 @@
 ### viper-image-archive
 
 > 针对 [Docker Hub - viperplatform/viper](https://hub.docker.com/r/viperplatform/viper) 镜像仓库的监控和备份
+
 
 
 
