@@ -10,9 +10,13 @@
 
 ## >> Idea-stage project 概念性项目
 
-### Observation **(Private)**
+### Observation-Agent-Python **(Private)**
 
-> Agent for Observation
+> Agent for Observation written by Python
+
+### Observation-Agent-Linux-C **(Private)**
+
+> Agent for Observation written by C
 
 ### DBVigil
 
@@ -23,10 +27,6 @@
 ### WebSentinel **(Private)**
 
 > A stealthy web intelligence toolkit for site monitoring, data gathering, and reconnaissance
-
-### OmniIntel **(Private)**
-
-> Omni Intelligence: A unified AI framework for cross-platform content intelligence
 
 ### WindListener
 
@@ -58,6 +58,10 @@
 
 ## >> Mature Project 成熟项目
 
+### OmniIntel **(Private)**
+
+> Omni Intelligence: A unified AI framework for cross-platform content intelligence
+
 ### Volatility3-pypykatz
 
 > pypykatz plugin for Volatility3 Framework 
@@ -71,6 +75,17 @@
 ### viper-image-archive
 
 > 针对 [Docker Hub - viperplatform/viper](https://hub.docker.com/r/viperplatform/viper) 镜像仓库的监控和备份
+
+### FunnyWolf-Fucker
+
+> None
+
+## >> Clone Project 克隆项目
+
+### ELKrack
+
+> Elasticsearch crack 7.X-9.X
+
 
 
 
