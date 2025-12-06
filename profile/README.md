@@ -10,13 +10,9 @@
 
 ## >> Idea-stage project 概念性项目
 
-### Observation-Agent-Python **(Private)**
+### Observation **(Private)**
 
-> Agent for Observation written by Python
-
-### Observation-Agent-Linux-C **(Private)**
-
-> Agent for Observation written by C
+> The command and control(C2) framework I envision
 
 ### DBVigil
 
@@ -27,40 +23,76 @@
 ### WebSentinel **(Private)**
 
 > A stealthy web intelligence toolkit for site monitoring, data gathering, and reconnaissance
+>
+> 一款用于网站监控、数据收集和侦察的隐蔽式网络情报工具包
 
 ### WindListener
 
 > Multi Session Handler
 >
 > receive and manage reverse shell sessions, designed to automate post-exploitation tasks
+>
+> 接收和管理反向 shell 会话，旨在自动化渗透后任务。
 
 ### memory-image-auto-analyzer
 
-> 基于Volatility进行可视化、自动化内存镜像分析的工具
+> A tool for visualized and automated memory image analysis based on Volatility
+>
+>基于Volatility进行可视化、自动化内存镜像分析的工具
 
 ### volatility2-enhanced
 
-> An advanced memory forensics framework, added some updates for functionality improvements.
+> An advanced memory forensics framework, with some functional improvements and updates added to Volatility2.
+>
+> 一个高级内存取证框架，在 Volatility2 基础上添加了一些功能改进更新。
 
 ## >> Early-stage project 初期项目
+
+### vshell-firewall **(Private)**
+
+> A firewall infrastructure designed to evade fingerprinting and reconnaissance targeting vshell infrastructure, while controlling traffic behavior
+>
+> 规避针对vshell基础设施的指纹测绘，并对流量行为进行控制的防火墙设施
+
+### CrisisLens **(Private)**
+
+> An AI-driven RSS news intelligence platform
+>
+> 一个人工智能驱动的RSS新闻智能分析与舆情监测平台
+
+### OmniIntel **(Private)**
+
+> Omni Intelligence
+>
+> A unified AI framework for extracting and integrating content across social media platforms
+>
+> 面向跨平台内容的统一人工智能框架
+
+### CameraMap **(Private)**
+
+> CameraMap turns city cameras into a global vantage point, letting you peek into urban corners across the world in real time
+>
+> CameraMap 将城市摄像头变成一个全球视角，让您实时观察世界各地的城市角落。
 
 ### flow_analysis
 
 > A framework for analysis traffic data
+>
+> 流量数据分析框架
 
 ### profile-builder
 
 > Automatically build dwarf file for volatility2
+>
+> 自动为 Volatility2 构建 Dwarf 文件
 
 ### docker-unauthorized-tool
 
 > Unauthorized Docker Exploitation Tool
+>
+> Docker 未授权漏洞利用工具
 
 ## >> Mature Project 成熟项目
-
-### OmniIntel **(Private)**
-
-> Omni Intelligence: A unified AI framework for cross-platform content intelligence
 
 ### Volatility3-pypykatz
 
@@ -76,15 +108,18 @@
 
 > 针对 [Docker Hub - viperplatform/viper](https://hub.docker.com/r/viperplatform/viper) 镜像仓库的监控和备份
 
-### FunnyWolf-Fucker
+### FunnyWolf-Fucker **(Private)**
 
-> None
+> To FunnyWolf:
+>
+> 大哥你真的很能装死，你既然这么大安全漏洞不修，也不怪我一直视奸你
 
 ## >> Clone Project 克隆项目
 
 ### ELKrack
 
 > Elasticsearch crack 7.X-9.X
+
 
 
 
