@@ -26,6 +26,18 @@
 >
 > 一款用于网站监控、数据收集和侦察的隐蔽式网络情报工具包
 
+### DeepNetVisibility
+
+> Intranet Asset Visualization System
+>
+> 内网资产可视化系统
+
+### LoginEveryForm
+
+> Password Breach Verification Tool
+>
+> 密码泄露验证工具
+
 ### WindListener
 
 > Multi Session Handler
@@ -119,3 +131,4 @@
 ### ELKrack
 
 > Elasticsearch crack 7.X-9.X
+
